@@ -1,4 +1,4 @@
-@use 'mixims' as mx;
+@use 'mixins' as mx;
 
 %main-title {
   font-size: 24px;
@@ -11,7 +11,7 @@
 font-size: 20px;
 font-weight: 600;
 line-height: 1.4;
-letter-spacing: 0.25em;
+letter-spacing: 0.03em;
 }
 %main-text {
     font-size: 16px;
